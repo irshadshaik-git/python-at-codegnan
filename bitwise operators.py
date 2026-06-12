@@ -1,0 +1,5 @@
+print(10<<2)
+print(14&7)
+print(10>>2)
+print(19^7)
+print(2|3)
